@@ -291,8 +291,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ using React, TypeScript, and TensorFlow.js**
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/AI_Digit_Alphabet_Classifier?style=social)](https://github.com/yourusername/AI_Digit_Alphabet_Classifier)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/AI_Digit_Alphabet_Classifier?style=social)](https://github.com/yourusername/AI_Digit_Alphabet_Classifier)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/AI_Digit_Alphabet_Classifier)](https://github.com/yourusername/AI_Digit_Alphabet_Classifier/issues)
+[![GitHub stars](https://img.shields.io/github/stars/Kedhareswer/AI_Digit_Alphabet_Classifier?style=social)](https://github.com/yourusername/AI_Digit_Alphabet_Classifier)
+[![GitHub forks](https://img.shields.io/github/forks/Kedhareswer/AI_Digit_Alphabet_Classifier?style=social)](https://github.com/yourusername/AI_Digit_Alphabet_Classifier)
+[![GitHub issues](https://img.shields.io/github/issues/Kedhareswer/AI_Digit_Alphabet_Classifier)](https://github.com/yourusername/AI_Digit_Alphabet_Classifier/issues)
 
 </div> 
